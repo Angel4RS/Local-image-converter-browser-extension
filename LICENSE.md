@@ -1,6 +1,6 @@
 SOFTWARE LICENSE - NON-COMMERCIAL USE
 ============================================
-Project: Image-Downloader
+Project: Local-image-converter
 Original author: Angel4RS
 Year: 2026
 This project is distributed under the terms of the International Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License (CC BY-NC-SA 4.0).
