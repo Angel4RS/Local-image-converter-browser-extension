@@ -1,4 +1,4 @@
-# Changelog / Historial de cambios
+# Changelog 
 
 ## v1.2.1
 - Renamed to **Local image converter** (extension name and window title).
