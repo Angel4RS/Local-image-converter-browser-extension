@@ -1,12 +1,10 @@
 # Changelog 
 
-## v1.2.2
-- A bug was fixed where the extension would appear with a different name upon startup.
-
 ## v1.2.1
 - Renamed to **Local image converter** (extension name and window title).
 - Added "Created by Angel4RS" to the extension description and `author` in the manifest.
 - Se renombró a **Local image converter** y se añadió "Creado por Angel4RS" a la descripción.
+- A bug was fixed where the extension would appear with a different name upon startup.
 
 ## v1.2.0
 - Interface and messages now follow the browser language: Spanish, English, Portuguese, French and Japanese (English as fallback).
